@@ -1,0 +1,3 @@
+The Payment Card Industry (PCI) Data Security Standards (DSS) is a global information security standardto prevent fraud through increased control of credit card data.
+Organizations must follow PCI DSS standards if they accept payment cards from the major credit card brands such as Visa, MasterCard.
+Compliance with PCI DSS is required for any organization that stores, processes, or transmits payment and cardholder data.
