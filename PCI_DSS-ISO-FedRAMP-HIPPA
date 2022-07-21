@@ -5,9 +5,9 @@ Compliance with PCI DSS is required for any organization that stores, processes,
 ISO - The International Organization for Standardization (ISO) is an independent organization and the world’s largest developer
 of voluntary international standards.
 
-Option FedRAMP is incorrect - The US Federal Risk and Authorization Management Program (FedRAMP) was established to provide a standardized
+Option FedRAMP - The US Federal Risk and Authorization Management Program (FedRAMP) was established to provide a standardized
 approach for assessing, monitoring, and authorizing cloud computing products and services under the Federal Information Security Management Act (FISMA),
 and to accelerate the adoption of secure cloud solutions by federal agencies.
 
-Option HIPPA is incorrect - The Health Insurance Portability and Accountability Act (HIPAA) is a US healthcare law that establishes requirements 
+Option HIPPA - The Health Insurance Portability and Accountability Act (HIPAA) is a US healthcare law that establishes requirements 
 for the use, disclosure, and safeguarding of individually identifiable health information.
