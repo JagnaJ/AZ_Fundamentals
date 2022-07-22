@@ -6,3 +6,7 @@ Reference: https://azure.microsoft.com/en-us/overview/what-is-iaas/
 Platform as a service (PaaS) allows you to avoid the expense and complexity of buying and managing underlying application infrastructure.
 You manage the applications and services you develop, and the cloud service provider typically manages everything else.
 Reference: https://azure.microsoft.com/en-us/overview/what-is-paas/
+
+Option Function as a Service (FaaS)  - Function as a Service (FaaS) or Azure function is a serverless implementation, provides a runtime 
+environment to execute code, written in any language the user is comfortable. Functions are ideal when you're only concerned with the code 
+running your service and not the underlying platform or infrastructure.
