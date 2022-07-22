@@ -10,3 +10,7 @@ Reference: https://azure.microsoft.com/en-us/overview/what-is-paas/
 Option Function as a Service (FaaS)  - Function as a Service (FaaS) or Azure function is a serverless implementation, provides a runtime 
 environment to execute code, written in any language the user is comfortable. Functions are ideal when you're only concerned with the code 
 running your service and not the underlying platform or infrastructure.
+
+Option Software as a Service (SaaS) - Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet.
+Common examples are email, calendaring, and office tools (such as Microsoft Office 365).
+Reference: https://azure.microsoft.com/en-us/overview/what-is-saas/
