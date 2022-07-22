@@ -1,1 +1,5 @@
+Infrastructure as a service (IaaS) is an instant computing infrastructure, provisioned, and managed over the internet.
+IaaS quickly scales up and down with demand, letting you pay only for what you use. It helps you avoid the expense and complexity 
+of buying and managing your own physical servers and other datacenter infrastructure.
+Reference: https://azure.microsoft.com/en-us/overview/what-is-iaas/
 
