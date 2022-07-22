@@ -14,3 +14,9 @@ running your service and not the underlying platform or infrastructure.
 Option Software as a Service (SaaS) - Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet.
 Common examples are email, calendaring, and office tools (such as Microsoft Office 365).
 Reference: https://azure.microsoft.com/en-us/overview/what-is-saas/
+
+
+Option Serverless computing is incorrect - Serverless computing lets you run application code without creating, configuring or maintaining a server. 
+The core idea is that your application is broken into separate functions that run when triggered by some action. Few examples of Serverless applications
+on Azure are Logic apps, Functions, Service Fabric.
+Reference: https://azure.microsoft.com/en-us/overview/serverless-computing/
