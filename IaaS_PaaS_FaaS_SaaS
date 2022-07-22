@@ -3,3 +3,6 @@ IaaS quickly scales up and down with demand, letting you pay only for what you u
 of buying and managing your own physical servers and other datacenter infrastructure.
 Reference: https://azure.microsoft.com/en-us/overview/what-is-iaas/
 
+Platform as a service (PaaS) allows you to avoid the expense and complexity of buying and managing underlying application infrastructure.
+You manage the applications and services you develop, and the cloud service provider typically manages everything else.
+Reference: https://azure.microsoft.com/en-us/overview/what-is-paas/
