@@ -1,1 +1,5 @@
+Public cloud is a computing service offered by third-party providers (eg. Azure) over the public Internet, making them available to 
+anyone who wants to use or purchase them. You can migrate your resources to the public cloud, and decommission your datacenter. 
+Public clouds can save companies from the expensive costs of having to purchase, manage, and maintain on-premises hardware and application infrastructure.
+Reference: https://azure.microsoft.com/en-us/overview/what-is-a-public-cloud/
 
