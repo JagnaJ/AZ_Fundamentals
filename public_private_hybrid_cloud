@@ -3,3 +3,7 @@ anyone who wants to use or purchase them. You can migrate your resources to the 
 Public clouds can save companies from the expensive costs of having to purchase, manage, and maintain on-premises hardware and application infrastructure.
 Reference: https://azure.microsoft.com/en-us/overview/what-is-a-public-cloud/
 
+Option Private Cloud - Private Cloud is a computing service offered either over the Internet or a private internal network
+and only to select users instead of the general public. In this scenario, the organization wants to decommission its datacenter(ie. private cloud), 
+which can be achieved by moving resources to the public cloud.
+Reference: https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/
