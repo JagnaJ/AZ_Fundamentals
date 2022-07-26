@@ -1,3 +1,6 @@
 Agility is the ability to respond to change rapidly based on changes to the market or environment, ensuring fast time to market.
 Reference: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/business-outcomes/agility-outcomes
 
+Option Elasticity  - Elasticity is the ability to automatically or dynamically increase or decrease resources as needed. 
+Elastic resources match the current needs and resources are added or removed automatically to meet future needs when it’s needed.
+Reference: https://azure.microsoft.com/en-us/overview/what-is-elastic-computing/
