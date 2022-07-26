@@ -1,6 +1,10 @@
 Agility is the ability to respond to change rapidly based on changes to the market or environment, ensuring fast time to market.
 Reference: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/business-outcomes/agility-outcomes
 
-Option Elasticity  - Elasticity is the ability to automatically or dynamically increase or decrease resources as needed. 
+Option Elasticity - Elasticity is the ability to automatically or dynamically increase or decrease resources as needed. 
 Elastic resources match the current needs and resources are added or removed automatically to meet future needs when it’s needed.
 Reference: https://azure.microsoft.com/en-us/overview/what-is-elastic-computing/
+
+Option Fault tolerance - Fault tolerance is the ability to remain up and running even in the event of a component (or service) no longer functioning. 
+Typically, redundancy is built into cloud services architecture, so if one component fails, a backup component takes its place. 
+This type of service is said to be tolerant of faults.
