@@ -8,3 +8,8 @@ Reference: https://azure.microsoft.com/en-us/overview/what-is-elastic-computing/
 Option Fault tolerance - Fault tolerance is the ability to remain up and running even in the event of a component (or service) no longer functioning. 
 Typically, redundancy is built into cloud services architecture, so if one component fails, a backup component takes its place. 
 This type of service is said to be tolerant of faults.
+
+Option High availability - High availability is the ability to keep services up and running for long periods of time, with very little downtime. 
+Workloads are typically spread across different virtual machines to gain high throughput, performance, and to create redundancy in case
+a service is impacted due to an update or other event.
+Reference: https://docs.microsoft.com/en-us/azure/virtual-machines/availability
