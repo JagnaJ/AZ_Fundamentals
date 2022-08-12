@@ -1,0 +1,25 @@
+
+A view is a virtual table based on the result set of a query. In the simplest case, you can think of a view as a window on specified 
+rows in an underlying table. For example, you could create a view on the Orders table that lists the orders for a specific product.
+
+
+
+
+
+Option index - An index helps you search for data in a table. 
+Think of an index over a table as an index at the back of a book. A book index contains a sorted set of references, with the pages
+on which each reference occurs. When you want to find a reference to an item in the book, you look it up through the index. You can
+use the page numbers in the index to go directly to the correct pages in the book. Without an index, you might have to read through 
+the entire book to find the references you're looking for.
+
+
+
+Option heapt - A heap is a table without a clustered index.
+One or more nonclustered indexes can be created on tables stored as a heap.
+Data is stored in the heap without specifying an order. Heaps can be used as staging tables for large, unordered insert operations.
+Because data is inserted without enforcing a strict order, the insert operation is usually faster than the equivalent insert into a clustered index.
+
+
+
+Option stored procedure - A stored procedure is a set of Structured Query Language (SQL) statements with an assigned name, which is 
+stored in a relational database management system as a group, so it can be reused and shared by multiple programs.
