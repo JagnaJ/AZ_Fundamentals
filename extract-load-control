@@ -1,0 +1,5 @@
+In ELT (Extract, Load, and Transform) process, transformation happens at the target system.
+So Data will be extracted from CRM system, loaded in the data warehouse, and then transformation will happen in the data warehouse.
+Extract - The CRM System.
+Load - The data warehouse.
+Transform - The data warehouse.
