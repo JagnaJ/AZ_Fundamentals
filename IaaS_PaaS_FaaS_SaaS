@@ -20,3 +20,16 @@ Option Serverless computing is incorrect - Serverless computing lets you run app
 The core idea is that your application is broken into separate functions that run when triggered by some action. Few examples of Serverless applications
 on Azure are Logic apps, Functions, Service Fabric.
 Reference: https://azure.microsoft.com/en-us/overview/serverless-computing/
+
+
+SAS
+When you are implementing a Software as a Service (SaaS) solution, you are responsible for configuring the SaaS solution. 
+Everything else is managed by the cloud provider.
+SaaS requires the least amount of management. The cloud provider is responsible for managing everything, and the end user just uses the software.
+Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet. Common examples are email, calendaring and office tools
+(such as Microsoft Office 365).
+SaaS provides a complete software solution which you purchase on a pay-as-you-go basis from a cloud service provider.
+You rent the use of an app for your organization and your users connect to it over the Internet, usually with a web browser.
+All of the underlying infrastructure, middleware, app software and app data are located in the service provider's data center.
+The service provider manages the hardware and software and with the appropriate service agreement, will ensure the availability 
+and the security of the app and your data as well.
