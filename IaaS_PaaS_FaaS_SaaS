@@ -33,3 +33,6 @@ You rent the use of an app for your organization and your users connect to it ov
 All of the underlying infrastructure, middleware, app software and app data are located in the service provider's data center.
 The service provider manages the hardware and software and with the appropriate service agreement, will ensure the availability 
 and the security of the app and your data as well.
+Reference:
+https://azure.microsoft.com/en-in/overview/what-is-saas/
+https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/5-types-of-cloud-services
